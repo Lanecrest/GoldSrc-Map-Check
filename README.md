@@ -1,5 +1,12 @@
 # GoldSrc Map Check
 
+## Updates
+
+### 1.0
+
++ Initial release, uses powershell to create an excel (xlsx) file to check map files in a GoldSrc game/mod folder. Additional features may or may not be implemented in the future. See screenshots for example on what the generated file looks like.
++ If you have any questions, comments, or ideas for additional features, you can reach out to me on my [GameBanana Profile](https://gamebanana.com/members/2990169)
+
 ## About
 
 This is a quick and dirty script I made to check any GoldSrc game/mod folders to see if you are missing any .txt, .nav, .res, or overview file for any map (.bsp) for that game. I made this because my Counter-Strike folder was getting out of hand and trying to remember what maps I had overview and nav files for and which ones I didn't.
